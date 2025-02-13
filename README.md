@@ -4,7 +4,7 @@ Welcome to my personal repository! Here, you'll find a collection of my projects
 
 ## About Me
 
-I am currently a Ph.D. student in the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu/) at the University of Maryland and a Data Scientist II at [NORC at the University of Chicago](https://www.norc.org/). Additionally, I serve as an Adjunct Professor and Economist at the [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/). My academic journey includes a Master of Science in [Computational Analysis and Public Policy from the University of Chicago](capp.uchicago.edu/) and a Bachelor's degree in Economics from PUCP.
+I am currently a Ph.D. student in the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu/) at the University of Maryland and a Data Scientist II at [NORC at the University of Chicago](https://www.norc.org/). Additionally, I serve as an Adjunct Professor and Economist at the [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/). My academic journey includes a Master of Science in [Computational Analysis and Public Policy from the University of Chicago](https://www.capp.uchicago.edu/) and a Bachelor's degree in Economics from PUCP.
 
 For a comprehensive overview of my work and publications, please visit my [personal website](https://sites.google.com/pucp.pe/acozz).
 
