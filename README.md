@@ -13,7 +13,7 @@ For a comprehensive overview of my work and publications, please visit my [perso
 - 📊 **Data Science**
 - 📈 **Surveys**
 - 📉 **Microeconometrics**
-- 📉 **Poverty**
+- 📉 **Causal Inference**
 - 🏛️ **Public Policy**
 
 ## Publications
